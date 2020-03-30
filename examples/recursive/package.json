@@ -11,7 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "@funkia/funnel": "0.0.11",
-    "@funkia/hareactive": "0.0.20",
+    "@funkia/hareactive": "0.4.0",
     "@funkia/jabz": "0.0.19"
   },
   "devDependencies": {
